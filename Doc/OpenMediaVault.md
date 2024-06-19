@@ -1,7 +1,7 @@
 # OpenMediaVault Installation on Raspberry Pi Bullseye 64-bit Lite
 
 <div align="center">
-  <img alt="Openmediavault" width="1000" height="400" src="Images/openmediavault.jpg">
+  <img alt="Openmediavault" width="1000" height="400" src="../Images/openmediavault.jpg">
 </div>
 
 
