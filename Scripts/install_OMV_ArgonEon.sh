@@ -7,15 +7,6 @@ function error {
   exit 1
 }
 
-# Check log file for specific error message
-function check_log_for_error {
-  if grep -q "Unsupported version.  Only 11 (Bullseye) and 12 (Bookworm) are supported" "$LOG_FILE"; then
-    error "Unsupported version detected in log. OpenMediaVault installation failed."
-  else
-    echo "OpenMediaVault installed successfully."
-  fi
-}
-
 # Check network connectivity
 function check_internet() {
   echo "Checking internet connection..."
@@ -39,9 +30,6 @@ function install_openmediavault() {
   echo "Installing OpenMediaVault..."
   sudo wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
   
-  # Check if installation failed due to unsupported version
-  check_log_for_error
-  
 }
 
 
@@ -64,4 +52,4 @@ show_ascii_Homelab
 check_internet
 install_ArgonEon
 install_openmediavault
-
+echo "Script execution completed."
