@@ -1,5 +1,5 @@
 # Homelab - Docker Based Home Server
-![image](https://github.com/AbedDX/Homelab/assets/123561100/3a1ac548-8502-489c-a11b-9f439f748d08)
+![image](./Images/HomelabsIMG.png)
 Welcome to the Homelab, This project aims to set up a homelab using a Raspberry Pi. It includes various services and applications that enhance the functionality and management of the network and media.
 
 ## Prerequisites
