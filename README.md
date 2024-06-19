@@ -74,13 +74,14 @@ List of all Documents used within this project.
 
 | File Name | Description |
 | --------- | ----------- |
-|[Openmediavault]()|Install and setup instructions for OpenMediaVault (NAS)|
+|[Openmediavault.md]()|Install and setup instructions for OpenMediaVault network attached storage (NAS)|
 |[Homepage.md]()|Install and setup instructions for Homapage Dashboard.|
 |[nginx_proxy_manager.md]()|Install and setup instructions for Nginx Proxy Manager (NPM)|
 |[pi-hole.md]()|Install and Setup Pi-Hole for Network-Wide Ad Block|
 |[unbound.md]()|Install and Setup Unbound , a validating, recursive, caching DNS resolver.|
 |[rpimonitoring.md]()|Install and Setup Raspberry Pi & Docker Monitoring, A user-friendly way to monitor the performance of your Raspberry Pi|
 |[jellyfin.md]()|Install and Setup Jellyfin, A Software to provide media from a dedicated server to end-user devices via multiple apps|
+[Plex.md]()| Install and Setup Plex, A Software application that allows you to organize and stream your collection of movies, TV shows, music, and photos, from a central location. |
 |[filebrowser.md]()|Install and Setup Filebrowser, A file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files|
 
 
