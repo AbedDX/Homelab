@@ -1,6 +1,6 @@
 # OpenMediaVault Installation on Raspberry Pi Bullseye 64-bit Lite
 
-![OpenMediaVault](https://openmediavault.org/css/images/omv-logo-text.svg)
+![OpenMediaVault](../Images/openmediavault.jpg)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ OpenMediaVault (OMV) is a powerful, open-source network-attached storage (NAS) s
 
 ## Requirements
 
-<img align="right" alt="Coding" width="250" src="../Images/ArgonCaseNasPI.jpg">
+<img align="right" alt="Coding" width="180" src="../Images/ArgonCaseNasPI.jpg">
 
 - Raspberry Pi 3, 4, or 400
 - MicroSD card with Raspberry Pi OS Bullseye 64-bit Lite pre-installed
