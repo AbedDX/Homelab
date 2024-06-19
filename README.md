@@ -24,7 +24,7 @@ We recommend using [Raspberry Pi Imager](https://www.raspberrypi.com/software/) 
 
 2. Insert your SD card into an SD card reader connected to your computer.
 
-3. Open Raspberry Pi Imager, select "Raspberry Pi OS Lite (64bit)" from the list.
+3. Open Raspberry Pi Imager, select "Raspberry Pi OS Lite (64bit) or Legacy Bullseye Lite (64bit)" from the list.
 
 4. Choose the SD card you want to write the image to.
 
@@ -74,7 +74,7 @@ List of all Documents used within this project.
 
 | File Name | Description |
 | --------- | ----------- |
-|[Openmediavault.md]()|Install and setup instructions for OpenMediaVault network attached storage (NAS)|
+|[Openmediavault.md](./Doc/OpenMediaVault.md)|Install and setup instructions for OpenMediaVault network attached storage (NAS)|
 |[Homepage.md]()|Install and setup instructions for Homapage Dashboard.|
 |[nginx_proxy_manager.md]()|Install and setup instructions for Nginx Proxy Manager (NPM)|
 |[pi-hole.md]()|Install and Setup Pi-Hole for Network-Wide Ad Block|
